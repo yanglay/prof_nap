@@ -1,0 +1,45 @@
+body {
+  font: 14pt Arial;
+}
+
+div {
+  border: 3px;
+}
+
+.link a {
+  background-color: #EBEAEA;
+  margin: 0px 15px;
+  padding: 35px 55px;
+  border-radius: 15px;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+}
+
+.link {
+  padding: 35px 0px;
+  display: flex;
+  flex-wrap: nowrap;
+}
+ img {
+   border-radius: 15px;
+   width: 200px
+ }
+
+.teacher {
+  background-color: #EBEAEA;
+  border-radius: 15px;
+  margin: 15px 15px;
+  padding: 35px 55px;
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.character {
+  text-align: justify;
+}
+
+.docs img {
+  border-radius: 15px;
+  width: 70px
+}
